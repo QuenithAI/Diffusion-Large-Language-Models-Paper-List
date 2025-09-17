@@ -60,6 +60,7 @@
 
 ## <span id="papers">📜 Papers & Models</span>
 
+- [Dream 7B: Diffusion Large Language Models](https://arxiv.org/abs/2508.15487) [![GitHub Stars](https://img.shields.io/github/stars/DreamLM/DreamOn?style=social)](https://github.com/DreamLM/Dream)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://hkunlp.github.io/blog/2025/dream/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Dream-org/Dream-v0-Base-7B)
 - [DreamOn: Diffusion Language Models For Code Infilling Beyond Fixed-Size Canvas](https://hkunlp.github.io/blog/2025/dreamon/) [![GitHub Stars](https://img.shields.io/github/stars/DreamLM/DreamOn?style=social)](https://github.com/DreamLM/DreamOn)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://hkunlp.github.io/blog/2025/dreamon/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Dream-org/DreamOn-v0-7B)
 - [Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models](https://arxiv.org/abs/2508.00819) [![GitHub Stars](https://img.shields.io/github/stars/Li-Jinsong/DAEDAL?style=social)](https://github.com/Li-Jinsong/DAEDAL)
 - [Any-Order Flexible Length Masked Diffusion](https://arxiv.org/abs/2509.01025) [![GitHub Stars](https://img.shields.io/github/stars/brianlck/FlexMDM?style=social)](https://github.com/brianlck/FlexMDM)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://flexmdm.github.io)
