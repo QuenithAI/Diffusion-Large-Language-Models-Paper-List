@@ -60,6 +60,22 @@
 
 ## <span id="papers">📜 Papers & Models</span>
 
+- [dParallel: Learnable Parallel Decoding for dLLMs](https://arxiv.org/abs/2509.26488) [![GitHub Stars](https://img.shields.io/github/stars/czg1225/dParallel?style=social)](https://github.com/czg1225/dParallel)
+- [Sequential Diffusion Language Models](https://arxiv.org/abs/2509.24007) [![GitHub Stars](https://img.shields.io/github/stars/OpenGVLab/SDLM?style=social)](https://github.com/OpenGVLab/SDLM)  [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/OpenGVLab/SDLM-3B-D4)
+- [LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://huggingface.co/papers/2509.24389)
+- [Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction](https://arxiv.org/abs/2508.02558)
+- [Diffusion Language Models Know the Answer Before Decoding](https://arxiv.org/abs/2508.19982) [![GitHub Stars](https://img.shields.io/github/stars/pixeli99/Prophet?style=social)](https://github.com/pixeli99/Prophet)
+- [Learning to Parallel: Accelerating Diffusion Large Language Models via Adaptive Parallel Decoding](https://arxiv.org/abs/2509.25188) [![GitHub Stars](https://img.shields.io/github/stars/ims-kdks/Learning-to-Parallel-Decoding?style=social)](https://github.com/ims-kdks/Learning-to-Parallel-Decoding)  [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://ims-kdks.github.io/learning-to-parallel/)
+- [d^2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching](https://arxiv.org/abs/2509.23094)
+- [DPad: Efficient Diffusion Language Models with Suffix Dropout](https://arxiv.org/abs/2508.14148) [![GitHub Stars](https://img.shields.io/github/stars/Crys-Chen/DPad?style=social)](https://github.com/Crys-Chen/DPad)
+- [SparseD: Sparse Attention for Diffusion Language Models](https://arxiv.org/abs/2509.24014)
+- [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/abs/2505.15781) [![GitHub Stars](https://img.shields.io/github/stars/horseee/dKV-Cache?style=social)](https://github.com/horseee/dKV-Cache)
+- [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618) [![GitHub Stars](https://img.shields.io/github/stars/NVlabs/Fast-dLLM?style=social)](https://github.com/NVlabs/Fast-dLLM)  [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://nvlabs.github.io/Fast-dLLM/)
+- [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/abs/2505.21467)
+- [Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models](https://arxiv.org/abs/2508.09138)  [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://aim-uofa.github.io/dLLM-MidTruth/)
+- [Set Block Decoding is a Language Model Inference Accelerator](https://arxiv.org/abs/2509.04185)
+- [Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](https://arxiv.org/abs/2508.14896) [![GitHub Stars](https://img.shields.io/github/stars/FelixMessi/QDLM?style=social)](https://github.com/FelixMessi/QDLM)
+- [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/abs/2505.14455)
 - [Dream 7B: Diffusion Large Language Models](https://arxiv.org/abs/2508.15487) [![GitHub Stars](https://img.shields.io/github/stars/DreamLM/DreamOn?style=social)](https://github.com/DreamLM/Dream)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://hkunlp.github.io/blog/2025/dream/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Dream-org/Dream-v0-Base-7B)
 - [DreamOn: Diffusion Language Models For Code Infilling Beyond Fixed-Size Canvas](https://hkunlp.github.io/blog/2025/dreamon/) [![GitHub Stars](https://img.shields.io/github/stars/DreamLM/DreamOn?style=social)](https://github.com/DreamLM/DreamOn)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://hkunlp.github.io/blog/2025/dreamon/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Dream-org/DreamOn-v0-7B)
 - [Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models](https://arxiv.org/abs/2508.00819) [![GitHub Stars](https://img.shields.io/github/stars/Li-Jinsong/DAEDAL?style=social)](https://github.com/Li-Jinsong/DAEDAL)
