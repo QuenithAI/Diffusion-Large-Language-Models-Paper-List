@@ -60,6 +60,15 @@
 
 ## <span id="papers">📜 Papers & Models</span>
 
+- [Diffusion Language Models are Super Data Learners](https://arxiv.org/abs/2511.03276) [![GitHub Stars](https://img.shields.io/github/stars/JinjieNi/dlms-are-super-data-learners?style=social)](https://github.com/JinjieNi/dlms-are-super-data-learners)
+- [Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731)
+- [Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference](https://arxiv.org/abs/2508.02193)
+- [Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing](https://arxiv.org/abs/2508.09192) [![GitHub Stars](https://img.shields.io/github/stars/zhijie-group/Discrete-Diffusion-Forcing?style=social)](https://github.com/zhijie-group/Discrete-Diffusion-Forcing)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://zhijie-group.github.io/Discrete-Diffusion-Forcing/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/SJTU-Deng-Lab/D2F_Dream_Base_7B_Lora)
+- [Attention Is All You Need for KV Cache in Diffusion LLMs](https://arxiv.org/abs/2510.14973) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vila-lab.github.io/elastic-cache-webpage/)
+- [CoDA: Coding LM via Diffusion Adaptation](https://arxiv.org/abs/2510.03270) [![GitHub Stars](https://img.shields.io/github/stars/SalesforceAIResearch/CoDA?style=social)](https://github.com/SalesforceAIResearch/CoDA)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Salesforce/CoDA-v0-Instruct)
+- [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) [![GitHub Stars](https://img.shields.io/github/stars/jacklishufan/LaViDa?style=social)](https://github.com/jacklishufan/LaViDa)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/jacklishufan/lavida-dream-v1.0-instruct)
+- [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) [![GitHub Stars](https://img.shields.io/github/stars/yu-rp/Dimple?style=social)](https://github.com/yu-rp/Dimple)
+- [Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](https://arxiv.org/abs/2506.19037) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://omerlux.github.io/DUS-for-MDLMs/)
 - [dParallel: Learnable Parallel Decoding for dLLMs](https://arxiv.org/abs/2509.26488) [![GitHub Stars](https://img.shields.io/github/stars/czg1225/dParallel?style=social)](https://github.com/czg1225/dParallel)
 - [Sequential Diffusion Language Models](https://arxiv.org/abs/2509.24007) [![GitHub Stars](https://img.shields.io/github/stars/OpenGVLab/SDLM?style=social)](https://github.com/OpenGVLab/SDLM)  [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/OpenGVLab/SDLM-3B-D4)
 - [LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://huggingface.co/papers/2509.24389)
