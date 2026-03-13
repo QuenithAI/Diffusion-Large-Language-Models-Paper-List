@@ -426,14 +426,5 @@ Contributions are welcome! Please see our [**Contribution Guidelines**](CONTRIBU
 
 Join our community to stay up-to-date with the latest advancements, share your work, and collaborate with other researchers and developers in the field of video generation, diffusion large language models, and more!
 
-<div align="center">
-  <a href="YOUR_OFFICIAL_WEBSITE_URL">
-    <img src="assets/dllm-group.png" alt="QuenithAI Logo">
-  </a>
-</div>
+**If you are interested, please contact our administrator to join the group.**
 
-<div align="center">
-  <a href="YOUR_OFFICIAL_WEBSITE_URL">
-    <img src="assets/video-generation-group.png" alt="QuenithAI Logo">
-  </a>
-</div>
