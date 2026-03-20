@@ -66,6 +66,9 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
+* **[CVPR 2026]** ***ReMix:*** *Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.22868) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Serpientw/ReMix-DLLM)
+
 * **[CVPR 2026]** ***LLaDA-V:*** *Large Language Diffusion Models with Visual Instruction Tuning*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.16933) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ml-gsai.github.io/LLaDA-V-demo/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ML-GSAI/LLaDA-V) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/GSAI-ML/LLaDA-V)
 
