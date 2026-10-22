@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="YOUR_OFFICIAL_WEBSITE_URL">
+  <a href="https://quenithai.github.io/">
     <img src="assets/logo_run_cn.png" alt="QuenithAI Logo" width="200" height="200">
   </a>
 </div>
@@ -21,14 +21,14 @@
 >
 > Your contributions are also vital—feel free to [open an issue](https://github.com/QuenithAI/Diffusion-Large-Language-Models-Paper-List/issues) or [submit a pull request](https://github.com/QuenithAI/Diffusion-Large-Language-Models-Paper-List/pulls) to become a collaborator of this repository. We expect your participation!
 > 
->  If you require expert 1-on-1 guidance on your submissions to top-tier conferences and journals, we invite you to **contact us via [WeChat](assets/wechat.jpg) or [E-mail]((mailto:christzhaung@gmail.com))**.
+>  If you require expert 1-on-1 guidance on your submissions to top-tier conferences and journals, we invite you to **contact us via [WeChat](assets/wechat.jpg) or [E-mail](mailto:christzhaung@gmail.com)**.
 >
 >
 > ---
 >
-> 本仓库由 **「应达学术」(QuenithAI)** 的一线科研导师团队倾力打造并持续维护，旨在为您呈现文生图领域最全面、最前沿的论文。
+> 本仓库由 **「应达学术」(QuenithAI)** 的一线科研导师团队倾力打造并持续维护，旨在为您呈现扩散大语言模型领域最全面、最前沿的论文。
 >
-> 您的贡献对我们和社区来说至关重要——我们诚邀有志之士通过 [open an issue](https://github.com/QuenithAI/T2I-Generation-Paper-List/issues) 或 [submit a pull request](https://github.com/QuenithAI/T2I-Generation-Paper-List/pulls) 来成为这个项目的合作者之一，期待您的加入！
+> 您的贡献对我们和社区来说至关重要——我们诚邀有志之士通过 [open an issue](https://github.com/QuenithAI/Diffusion-Large-Language-Models-Paper-List/issues) 或 [submit a pull request](https://github.com/QuenithAI/Diffusion-Large-Language-Models-Paper-List/pulls) 来成为这个项目的合作者之一，期待您的加入！
 > 
 > 如果您在冲刺科研顶会的道路上需要专业的1V1指导，欢迎**通过[微信](assets/wechat.jpg)或[邮件](mailto:christzhaung@gmail.com)联系我们**。
 
@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Oct 22nd, 2026)**: We have updated all accepted papers in **ICML 2025**.
 - **(Sep 17th, 2025)**: Initial update of the repository.
 
 </details>
@@ -108,7 +109,7 @@
 
 * **[ICLR 2026]** *On the Reasoning Abilities of Masked Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2510.13117) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yjyddq/EOSER-ASS-RL)
 
-* **[ICLR 2026]** *Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.14896) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/FelixMessi/QDLM)
+* **[ICLR 2026]** *Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2510.03274) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ZTA2785/Quant-dLLM)
 
 * **[ICLR 2026]** *Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.06949) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Gen-Verse/dLLM-RL) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Gen-Verse/TraDo-8B-Instruct)
 
@@ -309,6 +310,23 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
+* **[ICML 2025]** *A General Framework for Inference-time Scaling and Steering of Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2501.06848) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zacharyhorvitz/FK-Diffusion-Steering)
+
+* **[ICML 2025]** *Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.07903) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KevinRojas1499/Diffuse-Everything)
+
+* **[ICML 2025]** *Distillation of Discrete Diffusion through Dimensional Correlations*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2410.08709) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/sony/di4c)
+
+* **[ICML 2025]** *Generalized Interpolating Discrete Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2503.04482) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/dvruette/gidd/)
+
+* **[ICML 2025]** *Large Language Models to Diffusion Finetuning*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2501.15781) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/SakanaAI/L2D)
+
+* **[ICML 2025]** *Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.15266) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ChenWu98/algorithmic-creativity)
+
+* **[ICML 2025]** *Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.16431)
+
+* **[ICML 2025]** *The Diffusion Duality*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.10892) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://s-sahoo.github.io/duo/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/s-sahoo/duo)
+
+* **[ICML 2025]** *Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2502.06768)
 
 </details>
 
@@ -316,7 +334,6 @@
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
 - [DLM-One: Diffusion Language Models for One-Step Sequence Generation](https://arxiv.org/abs/2506.00290)
-- [The Diffusion Duality](https://arxiv.org/abs/2506.10892) [![GitHub Stars](https://img.shields.io/github/stars/s-sahoo/duo?style=social)](https://github.com/s-sahoo/duo) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://s-sahoo.github.io/duo/)
 - [Improving Text Style Transfer using Masked Diffusion Language Models with Inference-time Scaling](https://arxiv.org/abs/2508.10995)
 - [Masked Diffusion Language Models with Frequency-Informed Training](https://arxiv.org/abs/2509.05056) [![GitHub Stars](https://img.shields.io/github/stars/kuleshov-group/mdlm?style=social)](https://github.com/kuleshov-group/mdlm) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/kuleshov-group/mdlm-owt)
 - [Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation](https://arxiv.org/abs/2509.11252) [![GitHub Stars](https://img.shields.io/github/stars/zhangyitonggg/dllm4code?style=social)](https://github.com/zhangyitonggg/dllm4code)
@@ -397,7 +414,7 @@ QuenithAI is a professional organization composed of top researchers, dedicated 
 
 Maintaining this `Awesome Text-to-Image Generation` list requires significant effort, just as completing a high-quality paper requires focused dedication and expert guidance. If you're looking for one-on-one support from top scholars on your own research project, to quickly identify innovative ideas and make publications, we invite you to contact us ASAP.
 
-➡️ **Contact us via [WeChat](assets/wechat.jpg) or [E-mail](mailto:your.email@example.com) to start your research journey.**
+➡️ **Contact us via [WeChat](assets/wechat.jpg) or [E-mail](mailto:christzhaung@gmail.com) to start your research journey.**
 
 ---
 
@@ -405,7 +422,7 @@ Maintaining this `Awesome Text-to-Image Generation` list requires significant ef
 
 维护一个GitHub调研仓库需要巨大的精力，正如完成一篇高质量的论文一样，离不开专注的投入和专业的指导。如果您希望在自己的研究项目中，获得来自顶尖学者的一对一支持，我们诚邀您与我们取得联系。
 
-➡️ **欢迎通过 [微信](assets/wechat.jpg) 或 [邮件](mailto:your.email@example.com) 联系我们，开启您的科研之旅。**
+➡️ **欢迎通过 [微信](assets/wechat.jpg) 或 [邮件](mailto:christzhaung@gmail.com) 联系我们，开启您的科研之旅。**
 
 
 [<small>⇧ Back to ToC</small>](#contents)
