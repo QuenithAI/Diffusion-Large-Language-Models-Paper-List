@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Oct 26th, 2026)**: We have updated all accepted papers in **NeurIPS 2025**.
 - **(Oct 22nd, 2026)**: We have updated all accepted papers in **ICML 2025**.
 - **(Sep 17th, 2025)**: Initial update of the repository.
 
@@ -206,7 +207,6 @@
 - [Breaking the Factorization Barrier in Diffusion Language Models](https://arxiv.org/abs/2603.00045) [![GitHub Stars](https://img.shields.io/github/stars/liuanji/CoDD?style=social)](https://github.com/liuanji/CoDD) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/il18/llada-math-pc)
 - [Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?](https://arxiv.org/abs/2602.23225)
 - [Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871) [![GitHub Stars](https://img.shields.io/github/stars/roymiles/diffusion-stitching?style=social)](https://github.com/roymiles/diffusion-stitching)
-- [Rejection Mixing: Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference](https://arxiv.org/abs/2602.22868)
 - [dLLM: Simple Diffusion Language Modeling](https://arxiv.org/abs/2602.22661) [![GitHub Stars](https://img.shields.io/github/stars/ZHZisZZ/dllm?style=social)](https://github.com/ZHZisZZ/dllm)
 - [TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion](https://arxiv.org/abs/2602.22586)
 - [Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.22246)
@@ -284,7 +284,6 @@
 - [Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model](https://arxiv.org/abs/2601.15892) [![GitHub Stars](https://img.shields.io/github/stars/ByteDance-Seed/Stable-DiffCoder?style=social)](https://github.com/ByteDance-Seed/Stable-DiffCoder) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/ByteDance-Seed/Stable-DiffCoder-8B-Instruct) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/ByteDance-Seed/Stable-DiffCoder-8B-Base)
 - [Parallelism and Generation Order in Masked Diffusion Language Models: Limits Today, Potential Tomorrow](https://arxiv.org/abs/2601.15593)
 - [The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models](https://arxiv.org/abs/2601.15165) [![GitHub Stars](https://img.shields.io/github/stars/LeapLabTHU/JustGRPO?style=social)](https://github.com/LeapLabTHU/JustGRPO) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://nzl-thu.github.io/the-flexibility-trap/)
-- [STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model](https://arxiv.org/abs/2601.14778)
 - [Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models](https://arxiv.org/abs/2601.14758)
 - [Diffusion Large Language Models for Black-Box Optimization](https://arxiv.org/abs/2601.14446)
 - [Top 10 Open Challenges Steering the Future of Diffusion Language Model and Its Variants](https://arxiv.org/abs/2601.14041)
@@ -313,6 +312,90 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
+* **[NeurIPS 2025]** *Absorb and Converge: Provable Convergence Guarantee for Absorbing Discrete Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/1d571ea833394630c1dec71664f16cd9-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/510e22f4a2da5212a64f1591736e2eaf-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Accelerating Diffusion LLMs via Adaptive Parallel Decoding*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/4c7d31b2da05a17f15101db5b37a1e24-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/43ba0466af2b1ac76aa85d8fbec714e3-Paper-Conference.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/pixeli99/A-CFG)
+
+* **[NeurIPS 2025]** *Anchored Diffusion Language Model*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/8143b8c73073a9a23b9c18e400066471-Paper-Conference.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anchored-diffusion-llm.github.io/)
+
+* **[NeurIPS 2025]** *Beyond Masked and Unmasked: Discrete Diffusion Models via Partial Masking*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/8c4cedd58c86598e7b275e504e3037d2-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Breaking AR’s Sampling Bottleneck: Provable Acceleration via Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/111298628bfb153ee1f84b10fec3a8b9-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/8fa879041811323ec659a93dbdf53381-Paper-Conference.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/lavoiems/DiscreteLatentCode)
+
+* **[NeurIPS 2025]** *Constrained Discrete Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/124c1cc9f7750f512ed81cdbf2fd5bf5-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Continuous Diffusion Model for Language Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/8c4046a93293442e88f54e19a5849d68-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Cosmos: Compressed and Smooth Latent Space for Text Diffusion Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/1506930fb75c82246e4d8648a66e4b27-Paper-Conference.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MeshchaninovViacheslav/cosmos)
+
+* **[NeurIPS 2025]** *DINGO: Constrained Inference for Diffusion LLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/eb17a2030d1bd4a1bd29531bcd626705-Paper-Conference.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/uiuc-focal-lab/DINGO)
+
+* **[NeurIPS 2025]** *Diffusion Beats Autoregressive in Data-Constrained Settings*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/0f705a932553c08ebf0d1bc520b7cbc6-Paper-Conference.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diffusion-scaling.github.io)
+
+* **[NeurIPS 2025]** *Diffusion Tree Sampling: Scalable inference‑time alignment of diffusion models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/d6484394c4cb5e1f4ecad8d90b912025-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Discrete Diffusion Models: Novel Analysis and New Sampler Guarantees*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/f1e7c90552850afcc2558d78950c519d-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/dac97477cb2071b327c8151536ab8bba-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Edit Flows: Variable Length Discrete Flow Matching with Sequence-Level Edit Operations*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/cb43f46154e750746602faaffd65fbbb-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Encoder-Decoder Diffusion Language Models for Efficient Training and Inference*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2510.22852)
+
+* **[NeurIPS 2025]** *FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/74e9002aef14078b3a6346129990763f-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Fast Solvers for Discrete Diffusion Models: Theory and Applications of High-Order Algorithms*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/f46ddea413df86832418c5e04e59644f-Paper-Conference.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yuchen-zhu-zyc/DiscreteFastSolver)
+
+* **[NeurIPS 2025]** *Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.15188) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ybseo-ac/Conv)
+
+* **[NeurIPS 2025]** *Fine-Tuning Discrete Diffusion Models with Policy Gradient Methods*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/e053a2ffa2a7f5156e2b9a852fde6d45-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Information-Theoretic Discrete Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/1a9b888813ffc9349371087c95c22af3-Paper-Conference.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Dongjae0324/infodis)
+
+* **[NeurIPS 2025]** *Informed Correctors for Discrete Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/b67d9d07faf071532c420ed5b140756b-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *KLASS: KL-Guided Fast Inference in Masked Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/8514c1f12dcdd061ac8521feb78f28ca-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *LaViDa: A Large Diffusion Language Model for Multimodal Understanding*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.16839) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/jacklishufan/LaViDa) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/jacklishufan/lavida-dream-v1.0-instruct)
+
+* **[NeurIPS 2025]** *Large Language Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2502.09992) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ml-gsai.github.io/LLaDA-demo/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/ML-GSAI/LLaDA) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct)
+
+* **[NeurIPS 2025]** *Learnable Sampler Distillation for Discrete Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/657a088c0d3a985a2ef017240c2ad40d-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *MMaDA: Multimodal Large Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/caa934a507a952698d54efb24845fc4b-Paper-Conference.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Gen-Verse/MMaDA)
+
+* **[NeurIPS 2025]** *MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2510.21473)
+
+* **[NeurIPS 2025]** *Masked Diffusion Models as Energy Minimization*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/458b2244a7fae08b47d307b5b8d715a7-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Next Semantic Scale Prediction via Hierarchical Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/3b3d7aafe5f36995a8320059a858e4b9-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Non-Markovian Discrete Diffusion with Causal Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/e5f83da20fc7381568787cef1fedb16a-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.10446) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/maple-research-lab/LLaDOU) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/maple-research-lab/LLaDOU-v0-Math) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/maple-research-lab/LLaDOU-v0-Code)
+
+* **[NeurIPS 2025]** *Remasking Discrete Diffusion Models with Inference-Time Scaling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/d877ea0dd78bdbe54830670618c1de09-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *SPMDM: Enhancing Masked Diffusion Models through Simplifying Sampling Path*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/c34057f0cfb685eadf7d8d7cc99f734a-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2601.14778)
+
+* **[NeurIPS 2025]** *ShortListing Model: A Streamlined Simplex Diffusion for Discrete Variable Generation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/42c4ca570eec68981c20094de1cc760e-Paper-Conference.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/GenSI-THUAIR/SLM)
+
+* **[NeurIPS 2025]** *Theoretical Benefit and Limitation of Diffusion Language Model*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/2318d75a06437eaa257737a5cf3ab83c-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *Why Masking Diffusion Works: Condition on the Jump Schedule for Improved Discrete Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://papers.neurips.cc/paper_files/paper/2025/file/3086ede0108b174087add7f1ce55f827-Paper-Conference.pdf)
+
+* **[NeurIPS 2025]** *d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2504.12216) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dllm-reasoning.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/dllm-reasoning/d1)
+
+* **[NeurIPS 2025]** *dKV-Cache: The Cache for Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2505.15781) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/horseee/dKV-Cache)
+
 * **[ICML 2025]** *A General Framework for Inference-time Scaling and Steering of Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2501.06848) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/zacharyhorvitz/FK-Diffusion-Steering)
 
 * **[ICML 2025]** *Diffuse Everything: Multimodal Diffusion Models on Arbitrary State Spaces*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.07903) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/KevinRojas1499/Diffuse-Everything)
@@ -340,7 +423,6 @@
 - [Improving Text Style Transfer using Masked Diffusion Language Models with Inference-time Scaling](https://arxiv.org/abs/2508.10995)
 - [Masked Diffusion Language Models with Frequency-Informed Training](https://arxiv.org/abs/2509.05056) [![GitHub Stars](https://img.shields.io/github/stars/kuleshov-group/mdlm?style=social)](https://github.com/kuleshov-group/mdlm) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/kuleshov-group/mdlm-owt)
 - [Beyond Autoregression: An Empirical Study of Diffusion Large Language Models for Code Generation](https://arxiv.org/abs/2509.11252) [![GitHub Stars](https://img.shields.io/github/stars/zhangyitonggg/dllm4code?style=social)](https://github.com/zhangyitonggg/dllm4code)
-- [Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning](https://arxiv.org/abs/2509.15188) [![GitHub Stars](https://img.shields.io/github/stars/ybseo-ac/Conv?style=social)](https://github.com/ybseo-ac/Conv)
 - [Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding](https://arxiv.org/abs/2509.18085)
 - [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/abs/2509.23924) [![GitHub Stars](https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL?style=social)](https://github.com/yjyddq/EOSER-ASS-RL)
 - [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/abs/2509.25604)
@@ -355,8 +437,6 @@
 - [UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models](https://arxiv.org/abs/2510.10481)
 - [On the Reasoning Abilities of Masked Diffusion Language Models](https://arxiv.org/abs/2510.13117) [![GitHub Stars](https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL?style=social)](https://github.com/yjyddq/EOSER-ASS-RL)
 - [Soft-Masked Diffusion Language Models](https://arxiv.org/abs/2510.17206) [![GitHub Stars](https://img.shields.io/github/stars/kuleshov-group/mdlm?style=social)](https://github.com/kuleshov-group/mdlm) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/kuleshov-group/mdlm-owt)
-- [MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization](https://arxiv.org/abs/2510.21473)
-- [Encoder-Decoder Diffusion Language Models for Efficient Sequence Generation](https://arxiv.org/abs/2510.22852)
 - [Diffusion LLM with Native Variable Generation Lengths](https://arxiv.org/abs/2510.24605)
 - [Diffuse Thinking: Exploring Diffusion Language Models as Efficient Thought Proposers for Reasoning](https://arxiv.org/abs/2510.27469)
 - [Diffusion LLMs are Natural Adversaries for any LLM](https://arxiv.org/abs/2511.00203)
@@ -367,7 +447,6 @@
 - [Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing](https://arxiv.org/abs/2508.09192) [![GitHub Stars](https://img.shields.io/github/stars/zhijie-group/Discrete-Diffusion-Forcing?style=social)](https://github.com/zhijie-group/Discrete-Diffusion-Forcing)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://zhijie-group.github.io/Discrete-Diffusion-Forcing/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/SJTU-Deng-Lab/D2F_Dream_Base_7B_Lora)
 - [Attention Is All You Need for KV Cache in Diffusion LLMs](https://arxiv.org/abs/2510.14973) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://vila-lab.github.io/elastic-cache-webpage/)
 - [CoDA: Coding LM via Diffusion Adaptation](https://arxiv.org/abs/2510.03270) [![GitHub Stars](https://img.shields.io/github/stars/SalesforceAIResearch/CoDA?style=social)](https://github.com/SalesforceAIResearch/CoDA)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Salesforce/CoDA-v0-Instruct)
-- [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) [![GitHub Stars](https://img.shields.io/github/stars/jacklishufan/LaViDa?style=social)](https://github.com/jacklishufan/LaViDa)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/jacklishufan/lavida-dream-v1.0-instruct)
 - [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) [![GitHub Stars](https://img.shields.io/github/stars/yu-rp/Dimple?style=social)](https://github.com/yu-rp/Dimple)
 - [Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](https://arxiv.org/abs/2506.19037) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://omerlux.github.io/DUS-for-MDLMs/)
 - [Sequential Diffusion Language Models](https://arxiv.org/abs/2509.24007) [![GitHub Stars](https://img.shields.io/github/stars/OpenGVLab/SDLM?style=social)](https://github.com/OpenGVLab/SDLM)  [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/OpenGVLab/SDLM-3B-D4)
@@ -377,22 +456,18 @@
 - [Learning to Parallel: Accelerating Diffusion Large Language Models via Adaptive Parallel Decoding](https://arxiv.org/abs/2509.25188) [![GitHub Stars](https://img.shields.io/github/stars/ims-kdks/Learning-to-Parallel-Decoding?style=social)](https://github.com/ims-kdks/Learning-to-Parallel-Decoding)  [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://ims-kdks.github.io/learning-to-parallel/)
 - [d^2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching](https://arxiv.org/abs/2509.23094)
 - [DPad: Efficient Diffusion Language Models with Suffix Dropout](https://arxiv.org/abs/2508.14148) [![GitHub Stars](https://img.shields.io/github/stars/Crys-Chen/DPad?style=social)](https://github.com/Crys-Chen/DPad)
-- [dKV-Cache: The Cache for Diffusion Language Models](https://arxiv.org/abs/2505.15781) [![GitHub Stars](https://img.shields.io/github/stars/horseee/dKV-Cache?style=social)](https://github.com/horseee/dKV-Cache)
 - [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/abs/2505.21467)
 - [Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models](https://arxiv.org/abs/2508.09138)  [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://aim-uofa.github.io/dLLM-MidTruth/)
 - [Set Block Decoding is a Language Model Inference Accelerator](https://arxiv.org/abs/2509.04185)
 - [Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](https://arxiv.org/abs/2508.14896) [![GitHub Stars](https://img.shields.io/github/stars/FelixMessi/QDLM?style=social)](https://github.com/FelixMessi/QDLM)
 - [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/abs/2505.14455)
 - [Dream 7B: Diffusion Large Language Models](https://arxiv.org/abs/2508.15487) [![GitHub Stars](https://img.shields.io/github/stars/DreamLM/DreamOn?style=social)](https://github.com/DreamLM/Dream)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://hkunlp.github.io/blog/2025/dream/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Dream-org/Dream-v0-Base-7B)
-- [d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2504.12216) [![GitHub Stars](https://img.shields.io/github/stars/dllm-reasoning/d1?style=social)](https://github.com/dllm-reasoning/d1)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://dllm-reasoning.github.io)
-- [Reinforcing the Diffusion Chain of Lateral Thought with Diffusion Language Models](https://arxiv.org/abs/2505.10446) [![GitHub Stars](https://img.shields.io/github/stars/maple-research-lab/LLaDOU?style=social)](https://github.com/maple-research-lab/LLaDOU)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/maple-research-lab/LLaDOU-v0-Math) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/maple-research-lab/LLaDOU-v0-Code)
 - [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) [![GitHub Stars](https://img.shields.io/github/stars/ML-GSAI/LLaDA-1.5?style=social)](https://github.com/ML-GSAI/LLaDA-1.5)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://ml-gsai.github.io/LLaDA-1.5-Demo/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/GSAI-ML/LLaDA-1.5)
 - [MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models](https://arxiv.org/abs/2508.13148) [![GitHub Stars](https://img.shields.io/github/stars/autonomousvision/mdpo?style=social)](https://github.com/autonomousvision/mdpo)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://cli212.github.io/MDPO)
 - [DIFFA: Large Language Diffusion Models Can Listen and Understand](https://arxiv.org/abs/2507.18452) [![GitHub Stars](https://img.shields.io/github/stars/NKU-HLT/DIFFA?style=social)](https://github.com/NKU-HLT/DIFFA)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/zhoujiaming777/DIFFA)
 - [The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs](https://arxiv.org/abs/2507.11097) [![GitHub Stars](https://img.shields.io/github/stars/ZichenWen1/DIJA?style=social)](https://github.com/ZichenWen1/DIJA)
 - [Whisfusion: Parallel ASR Decoding via a Diffusion Transformer](https://arxiv.org/abs/2508.07048) [![GitHub Stars](https://img.shields.io/github/stars/taeyoun811/Whisfusion?style=social)](https://github.com/taeyoun811/Whisfusion)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/taeyoun811/whisfusion)
 - [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/abs/2509.06932) [![GitHub Stars](https://img.shields.io/github/stars/wenyuqing/llada-vla?style=social)](https://github.com/wenyuqing/llada-vla)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://wenyuqing.github.io/llada-vla)
-- [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992) [![GitHub Stars](https://img.shields.io/github/stars/ML-GSAI/LLaDA?style=social)](https://github.com/ML-GSAI/LLaDA) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://ml-gsai.github.io/LLaDA-demo/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct)
 
 </details>
 
