@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Oct 28th, 2026)**: We have updated all accepted papers in **AAAI 2026**.
 - **(Oct 26th, 2026)**: We have updated all accepted papers in **NeurIPS 2025**.
 - **(Oct 22nd, 2026)**: We have updated all accepted papers in **ICML 2025**.
 - **(Sep 17th, 2025)**: Initial update of the repository.
@@ -180,6 +181,16 @@
 * **[ICLR 2026]** *Watermarking Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=3aBWTYGcaT) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/eth-sri/diffusion-lm-watermark)
 
 * **[ICLR 2026]** *What Exactly Does Guidance Do in Masked Discrete Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=h06nffFJqi)
+
+* **[AAAI 2026]** *D3ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2511.12280) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/bcmi/D3ToM-Diffusion-MLLM)
+
+* **[AAAI 2026]** *DIFFA: Large Language Diffusion Models Can Listen and Understand*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2507.18452) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/NKU-HLT/DIFFA) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/zhoujiaming777/DIFFA)
+
+* **[AAAI 2026]** *LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2506.14429) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/OpenMOSS/LongLLaDA)
+
+* **[AAAI 2026]** *Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.02558) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/OpenMOSS/Sparse-dLLM)
+
+* **[AAAI 2026]** *Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.12398)
 
 </details>
 
@@ -451,7 +462,6 @@
 - [Plan for Speed: Dilated Scheduling for Masked Diffusion Language Models](https://arxiv.org/abs/2506.19037) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://omerlux.github.io/DUS-for-MDLMs/)
 - [Sequential Diffusion Language Models](https://arxiv.org/abs/2509.24007) [![GitHub Stars](https://img.shields.io/github/stars/OpenGVLab/SDLM?style=social)](https://github.com/OpenGVLab/SDLM)  [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/OpenGVLab/SDLM-3B-D4)
 - [LLaDA-MoE: A Sparse MoE Diffusion Language Model](https://huggingface.co/papers/2509.24389)
-- [Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction](https://arxiv.org/abs/2508.02558)
 - [Diffusion Language Models Know the Answer Before Decoding](https://arxiv.org/abs/2508.19982) [![GitHub Stars](https://img.shields.io/github/stars/pixeli99/Prophet?style=social)](https://github.com/pixeli99/Prophet)
 - [Learning to Parallel: Accelerating Diffusion Large Language Models via Adaptive Parallel Decoding](https://arxiv.org/abs/2509.25188) [![GitHub Stars](https://img.shields.io/github/stars/ims-kdks/Learning-to-Parallel-Decoding?style=social)](https://github.com/ims-kdks/Learning-to-Parallel-Decoding)  [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://ims-kdks.github.io/learning-to-parallel/)
 - [d^2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching](https://arxiv.org/abs/2509.23094)
@@ -464,7 +474,6 @@
 - [Dream 7B: Diffusion Large Language Models](https://arxiv.org/abs/2508.15487) [![GitHub Stars](https://img.shields.io/github/stars/DreamLM/DreamOn?style=social)](https://github.com/DreamLM/Dream)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://hkunlp.github.io/blog/2025/dream/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/Dream-org/Dream-v0-Base-7B)
 - [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) [![GitHub Stars](https://img.shields.io/github/stars/ML-GSAI/LLaDA-1.5?style=social)](https://github.com/ML-GSAI/LLaDA-1.5)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://ml-gsai.github.io/LLaDA-1.5-Demo/) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/GSAI-ML/LLaDA-1.5)
 - [MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models](https://arxiv.org/abs/2508.13148) [![GitHub Stars](https://img.shields.io/github/stars/autonomousvision/mdpo?style=social)](https://github.com/autonomousvision/mdpo)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://cli212.github.io/MDPO)
-- [DIFFA: Large Language Diffusion Models Can Listen and Understand](https://arxiv.org/abs/2507.18452) [![GitHub Stars](https://img.shields.io/github/stars/NKU-HLT/DIFFA?style=social)](https://github.com/NKU-HLT/DIFFA)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/zhoujiaming777/DIFFA)
 - [The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs](https://arxiv.org/abs/2507.11097) [![GitHub Stars](https://img.shields.io/github/stars/ZichenWen1/DIJA?style=social)](https://github.com/ZichenWen1/DIJA)
 - [Whisfusion: Parallel ASR Decoding via a Diffusion Transformer](https://arxiv.org/abs/2508.07048) [![GitHub Stars](https://img.shields.io/github/stars/taeyoun811/Whisfusion?style=social)](https://github.com/taeyoun811/Whisfusion)   [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/taeyoun811/whisfusion)
 - [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/abs/2509.06932) [![GitHub Stars](https://img.shields.io/github/stars/wenyuqing/llada-vla?style=social)](https://github.com/wenyuqing/llada-vla)   [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://wenyuqing.github.io/llada-vla)
