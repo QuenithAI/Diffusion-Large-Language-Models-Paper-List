@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Oct 30th, 2026)**: We have updated all accepted papers in **CVPR 2026**.
 - **(Oct 28th, 2026)**: We have updated all accepted papers in **AAAI 2026**.
 - **(Oct 26th, 2026)**: We have updated all accepted papers in **NeurIPS 2025**.
 - **(Oct 22nd, 2026)**: We have updated all accepted papers in **ICML 2025**.
@@ -78,11 +79,26 @@
 * **[CVPR 2026]** ***LLaDA-MedV:*** *Exploring Large Language Diffusion Models for Biomedical Image Understanding*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2508.01617) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/LLM-VLM-GSL/LLaDA-MedV#readme) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/LLM-VLM-GSL/LLaDA-MedV) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/XZDong123/LLaDA-MedV)
 
+* **[CVPR 2026]** ***GeoDiT:*** *A Diffusion-based Vision-Language Model for Geospatial Understanding*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.02505)
+
 * **[CVPR 2026]** ***Sparse-LaViDa:*** *Sparse Multimodal Discrete Diffusion Language Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.14008) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://homepage.jackli.org/projects/sparse-lavida/index.html) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/adobe-research/LaVida-O) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/jacklishufan/LaViDa-O-v1.0)
 
 * **[CVPR 2026]** ***dMLLM-TTS:*** *Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.19433) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://synbol.github.io/Lumina-DiMOO/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Alpha-VLLM/Lumina-DiMOO) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/Alpha-VLLM/Lumina-DiMOO)
+
+* **[CVPR 2026]** ***Towards GUI Agents:*** *Vision-Language Diffusion Models for GUI Grounding*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.26211)
+
+* **[CVPR 2026]** ***Thinking Diffusion:*** *Penalize and Guide Visual-Grounded Reasoning in Diffusion Multimodal Language Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.05497)
+
+* **[CVPR 2026]** ***Interpretable Prompts made Edit-Friendly:*** *Token-to-Token Similarity Reduction in dLLMs for Edit-Friendly Hard Prompt Inversion*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2026/papers/Devulapally_Interpretable_Prompts_made_Edit-Friendly_Token-to-Token_Similarity_Reduction_in_dLLMs_for_CVPR_2026_paper.pdf)
+
+* **[CVPR 2026]** ***MMCP-GEN:*** *A Modality-Extensible Diffusion Language Model for Conditional Protein Sequence Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openaccess.thecvf.com/content/CVPR2026/papers/An_MMCP-GEN_A_Modality-Extensible_Diffusion_Language_Model_for_Conditional_Protein_Sequence_CVPR_2026_paper.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/WanyuGroup/CVPR2026-MMCP-GEN)
 
 * **[ICLR 2026]** *Any-Order Flexible Length Masked Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2509.01025) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://flexmdm.github.io) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/brianlck/FlexMDM)
 
