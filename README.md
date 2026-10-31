@@ -70,6 +70,8 @@
 <details>
 <summary><h4>✅ Published Papers</h4></summary>
 
+* **[ACL 2026]** *Empirical Analysis of Decoding Biases in Masked Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2508.13021) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://passionate11.github.io/Uncode-project-page/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/NEUIR/Uncode)
+
 * **[CVPR 2026]** ***ReMix:*** *Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.22868) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Serpientw/ReMix-DLLM)
 
