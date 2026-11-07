@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 7th, 2026)**: We have updated all accepted papers in **ECCV 2026**.
 - **(Nov 5th, 2026)**: We have updated all accepted papers in **ICML 2026**.
 - **(Nov 3rd, 2026)**: We have updated all accepted papers in **ACL 2026**.
 - **(Nov 1st, 2026)**: We have updated all accepted papers in **ICLR 2026**.
@@ -75,6 +76,45 @@
 
 * **[CVPR 2026]** ***ReMix:*** *Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.22868) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Serpientw/ReMix-DLLM)
+
+* **[ECCV 2026]** ***DARL:*** *Efficient Document-to-Markup Generation via Look-Ahead Diffusion Trajectory Sampling*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12800.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/SCUT-DLVCLab/DARL)
+
+* **[ECCV 2026]** ***DiffusionVL:*** *Translating Any Autoregressive Models into Diffusion Vision Language Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.15713) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/hustvl/DiffusionVL)
+
+* **[ECCV 2026]** *Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.06131) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jwmao1.github.io/MeDiM_web/)
+
+* **[ECCV 2026]** ***DriveFine:*** *Refining-Augmented Masked Diffusion VLA for Accurate and Robust Driving*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3132.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/MSunDYY/DriveFine)
+
+* **[ECCV 2026]** ***ECHO:*** *Efficient Chest X-ray Report Generation with One-step Block Diffusion*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.09450) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://echo-midea-airc.github.io/)
+
+* **[ECCV 2026]** ***Fast-dVLA:*** *Accelerating Discrete Diffusion VLA to Real-Time Performance*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/6807.pdf) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chris1220313648.github.io/Fast-dVLA/)
+
+* **[ECCV 2026]** ***GIDE:*** *Unlocking Diffusion LLMs for Precise Training-Free Image Editing*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.21176)
+
+* **[ECCV 2026]** ***MinerU-Diffusion:*** *Rethinking Document OCR as Inverse Rendering via Diffusion Decoding*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.22458) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/opendatalab/MinerU-Diffusion)
+
+* **[ECCV 2026]** *Preventing Expert Collapse in MoE-dVLMs via Modality-Wise Norm Alignment*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12617.pdf)
+
+* **[ECCV 2026]** *Reinforcement Learning for Multimodal Diffusion Language Models via Bidimensional Trajectory and Thought Optimization*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5290.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Gen-Verse/dLLM-RL)
+
+* **[ECCV 2026]** ***Seeing to Ground:*** *Visual Attention for Hallucination-Resilient MDLLMs*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.25711)
+
+* **[ECCV 2026]** *Transferability Between Understanding and Generation in Unified Multimodal Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.04423) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cvlab-kaist.github.io/UMM_Transferability/)
+
+* **[ECCV 2026]** *Unmasking-Time Visual Calibration for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models*<br>
+[![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/5861.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/THU-BPM/UVC)
 
 * **[ICML 2026]** *A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Qmlf1LwnBM)
 
