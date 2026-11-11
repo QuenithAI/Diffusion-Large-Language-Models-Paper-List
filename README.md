@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 11th, 2026)**: We have updated all accepted papers in **ACM MM 2026**.
 - **(Nov 7th, 2026)**: We have updated all accepted papers in **ECCV 2026**.
 - **(Nov 5th, 2026)**: We have updated all accepted papers in **ICML 2026**.
 - **(Nov 3rd, 2026)**: We have updated all accepted papers in **ACL 2026**.
@@ -76,6 +77,18 @@
 
 * **[CVPR 2026]** ***ReMix:*** *Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.22868) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Serpientw/ReMix-DLLM)
+
+* **[ACM MM 2026]** ***BARD:*** *Bridging Autoregressive and Diffusion Vision-Language Models via Highly Efficient Progressive Block Merging and Stage-Wise Distillation*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.16514) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fudan-generative-vision.github.io/Bard-VL/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fudan-generative-vision/Bard-VL) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/collections/fudan-generative-ai/bard-vl)
+
+* **[ACM MM 2026]** ***LaDA-Band:*** *Language Diffusion Models for Vocal-to-Accompaniment Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.11052) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://duoluoluos.github.io/LaDA-Band/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Duoluoluos/LaDA-Band) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/sDuoluoluos/LaDA-Band)
+
+* **[ACM MM 2026]** ***MMaDA-VLA:*** *Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.25406) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yliu-cs.github.io/MMaDA-VLA/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/yliu-cs/MMaDA-VLA) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/collections/yliu-cs/mmada-vla)
+
+* **[ACM MM 2026]** *Seeing the End at Step Zero: Accelerating Diffusion MLLMs via MLP Sparsity-Aware Truncation*<br>
+[![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2607.14557)
 
 * **[ECCV 2026]** ***DARL:*** *Efficient Document-to-Markup Generation via Look-Ahead Diffusion Trajectory Sampling*<br>
 [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/12800.pdf) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/SCUT-DLVCLab/DARL)
