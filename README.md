@@ -36,6 +36,7 @@
 <details>
 <summary><strong>⚡ Latest Updates</strong></summary>
 
+- **(Nov 13th, 2026)**: We have updated all accepted papers in **NeurIPS 2026**.
 - **(Nov 11th, 2026)**: We have updated all accepted papers in **ACM MM 2026**.
 - **(Nov 7th, 2026)**: We have updated all accepted papers in **ECCV 2026**.
 - **(Nov 5th, 2026)**: We have updated all accepted papers in **ICML 2026**.
@@ -77,6 +78,166 @@
 
 * **[CVPR 2026]** ***ReMix:*** *Fast Semantic Propagation of Mask Tokens for Efficient DLLM Inference*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2602.22868) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Serpientw/ReMix-DLLM)
+
+* **[NeurIPS 2026]** *Accelerating Diffusion Language Models via Structured Suffix Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=SkQxO613nL)
+
+* **[NeurIPS 2026]** *Anchoring LLM-based Chest X-ray Report Generation via Diffusion Language Planning*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=u78842hqLu)
+
+* **[NeurIPS 2026]** *Attention-Based Sampler for Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=lspyzSyqOj)
+
+* **[NeurIPS 2026]** *Attention-Discounted Adaptive Sampler for Masked Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=jRWyysR7NV)
+
+* **[NeurIPS 2026]** *BASTION: Budget-Aware Speculative Decoding with Tree-structured Block Diffusion Drafting*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=bggNOfjAjb)
+
+* **[NeurIPS 2026]** *Beyond the Prompt: Leveraging Pre-Decoding States for Jailbreak Detection in dLLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=cQKisMHGgm)
+
+* **[NeurIPS 2026]** *BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=W7ZNNibQAH)
+
+* **[NeurIPS 2026]** *Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.02333)
+
+* **[NeurIPS 2026]** *Confidence-Based Decoding is Provably Efficient for Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=XuU9i7BWKK)
+
+* **[NeurIPS 2026]** *Constrained Decoding for Diffusion Language Models via Efficient Inference over Finite Automata*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=ssAyzXEqoT)
+
+* **[NeurIPS 2026]** *Continuous Latent Diffusion Language Model*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=BXGQBSGCtv)
+
+* **[NeurIPS 2026]** *Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=fGFv81kGOt)
+
+* **[NeurIPS 2026]** *Corrective Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Gteb9OmhzF)
+
+* **[NeurIPS 2026]** *CURE: Counterfactual Unsafe-token Re-masking for Diffusion Large Language Model Test-time Alignment*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=XF2UgJwAIj)
+
+* **[NeurIPS 2026]** *DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=vjbVsKvLXq)
+
+* **[NeurIPS 2026]** *DELTA-TTS: Adapting Autoregressive Model into a Diffusion Language Model for Text-to-Speech*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=c4cM3P84zM)
+
+* **[NeurIPS 2026]** *Dependency-Guided Parallel Decoding in Discrete Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=aGLo39lNPa)
+
+* **[NeurIPS 2026]** *DiffScore: Text Evaluation Beyond Autoregressive Likelihood*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=sAJrqWRuQf)
+
+* **[NeurIPS 2026]** *Diffusion Fine-Tuning: Iterative Refinement for Advanced Grounding with Diffusion Large Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=GUkwzvouGc)
+
+* **[NeurIPS 2026]** *Diffusion Language Models Can Approximate Optimal Infilling Lengths Implicitly*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.00476)
+
+* **[NeurIPS 2026]** *Diffusion Thinking for Fast Long-Form Spatial Reasoning in Vision--Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=lBRcoVJDrO)
+
+* **[NeurIPS 2026]** *Diffusion-State Policy Optimization for Masked Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.06462) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daioba.github.io/dispo/)
+
+* **[NeurIPS 2026]** *Diffusion-Time Concept Manifolds: Sparse Autoencoder Groups for Interpreting Denoising Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=FrP1gSPL04)
+
+* **[NeurIPS 2026]** *DiLaDiff: Distilled Latent-augmented Diffusion for Language Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=l1EueDpKBW)
+
+* **[NeurIPS 2026]** *Discrete Diffusion Models Exploit Asymmetry to Solve Lookahead Planning Tasks*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=ctX2gxgiSE)
+
+* **[NeurIPS 2026]** *DMax: Aggressive Parallel Decoding for dLLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=RSM3ZqRlL2)
+
+* **[NeurIPS 2026]** *Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Z6jLmoD11G)
+
+* **[NeurIPS 2026]** *Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=tvmfTQg0WL)
+
+* **[NeurIPS 2026]** *Empowering Masked Diffusion Models to Self-Correct with Leave-One-Out Transformers*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=ic1GS1Kl0Z)
+
+* **[NeurIPS 2026]** *Enabling approximate joint sampling in diffusion LMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=qFl5qT3qAP)
+
+* **[NeurIPS 2026]** *EntropyCache: Decoded Token Entropy Guided KV Caching for Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=QX9lXOB8FY)
+
+* **[NeurIPS 2026]** *Extracting Training Data from Diffusion Language Models via Infilling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=qZJHM44aet)
+
+* **[NeurIPS 2026]** *Few-Step Diffusion Language Models via Trajectory Self-Distillation*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.12262) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Tyrion58/T3D)
+
+* **[NeurIPS 2026]** *FLARE: Diffusion for Hybrid Language Model*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=jqyH7mRtP7)
+
+* **[NeurIPS 2026]** *Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=UsksaoFwxx)
+
+* **[NeurIPS 2026]** *Free Lunch for Pass@k? Low Cost Diverse Sampling for Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2603.04893) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/sean-lamont/odd)
+
+* **[NeurIPS 2026]** *From Denoising to Refining: A Corrective Framework for Vision-Language Diffusion Model*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=eOkoZ4QWa0)
+
+* **[NeurIPS 2026]** *From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=VLjkAcK9fS)
+
+* **[NeurIPS 2026]** *GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=WxO85pTOHz)
+
+* **[NeurIPS 2026]** *LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=fUzRdnKBK4)
+
+* **[NeurIPS 2026]** *Learn from Your Mistakes: Self-Correcting Masked Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=D3SBs8maVe)
+
+* **[NeurIPS 2026]** *Learnable Chernoff Baselines for Provable Inference-Time Alignment*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=tal8YMD53R)
+
+* **[NeurIPS 2026]** *Learning from the Self-future: On-policy Self-distillation for dLLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=JFXGRuSGIK)
+
+* **[NeurIPS 2026]** *Looped Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=UqgMsw7AZH)
+
+* **[NeurIPS 2026]** *Machine Unlearning in Diffusion LLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=Dlj9mRJfOq)
+
+* **[NeurIPS 2026]** *MAGE: All-[MASK] Block Already Knows Where to Look in Block Diffusion LLM*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.14209)
+
+* **[NeurIPS 2026]** *Mask-Conditioned Gradient Masking for Fine-Tuning Mixture-of-Experts Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=8s9FEa3MGT)
+
+* **[NeurIPS 2026]** *Masked Diffusion Language Agents for Tool-Integrated Chemical Reasoning*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=6BW0xHIq1l)
+
+* **[NeurIPS 2026]** *MaskForge: Structure-Aware Adaptive Attacks for Jailbreaking Diffusion Large Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=2pQJ37HKk3)
+
+* **[NeurIPS 2026]** *Mean-Field Parallel Decoding for Discrete Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=YewDrMrsZb)
+
+* **[NeurIPS 2026]** *MemDLM: Memory-Enhanced DLM Training*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=KtZGBbCGLY)
+
+* **[NeurIPS 2026]** *On the Error Correcting Effects of Stochasticity in Discrete Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=BTRvd3ITHB)
+
+* **[NeurIPS 2026]** *Order-Marginalized Scoring for Masked Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=EE2N89jedk)
+
+* **[NeurIPS 2026]** *Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=fwaVRSuVPd)
+
+* **[NeurIPS 2026]** *PACE-dLLM: Elastic Block Decoding via Confidence Cliff Estimation for Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=sWWqM0EZOQ)
+
+* **[NeurIPS 2026]** *Polestar: Drift-Aware Cache Calibration and Token Commitment for Efficient Inference of Diffusion LLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=AsdJ0sPsgT)
+
+* **[NeurIPS 2026]** *Primal-Dual Guided Decoding for Constrained Discrete Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=RdcJpbmm7F)
+
+* **[NeurIPS 2026]** *PSD: Pushing the Pareto Frontier of Diffusion LLMs via Parallel Speculative Decoding*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=kRdp6aSiHL)
+
+* **[NeurIPS 2026]** *Re-evaluating Confidence Remasking in Masked Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=2QJmHBOmiB)
+
+* **[NeurIPS 2026]** *Reasoning with Undecoded Tokens in Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.03769)
+
+* **[NeurIPS 2026]** *Reconsidering Positional Supervision in Masked Diffusion Language Model Training*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2601.22947)
+
+* **[NeurIPS 2026]** *Rethinking Diffusion Decoding via Structural Commitment*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=YSIZqo8hoL)
+
+* **[NeurIPS 2026]** *Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=NS7JAOxOVv)
+
+* **[NeurIPS 2026]** *Safety Reconstructed: Generative Modeling via Masked Diffusion Builds Strong Safety Guardrails*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=oIxNRF9huQ)
+
+* **[NeurIPS 2026]** *Self-Rewarding Sequential Monte Carlo for Masked Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.01849) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Algolzw/self-rewarding-smc) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://algolzw.github.io/sr-smc/)
+
+* **[NeurIPS 2026]** *SemanticDLM+: Improving Diffusion LLMs through Bias-variance Trade-off in Transition Kernel Design*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=rSybF4j1zL)
+
+* **[NeurIPS 2026]** *SIGMA: A Sigmoid-Gated Sampler for Test-Time Scaling in Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=QeHRu4aPnt)
+
+* **[NeurIPS 2026]** *SimSD: Simple Speculative Decoding in Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=NYqEuoKbxZ)
+
+* **[NeurIPS 2026]** *Sketch Then Paint: Hierarchical Reinforcement Learning for Diffusion Multi-Modal Large Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=24mJNRxaLs)
+
+* **[NeurIPS 2026]** *STDec: Spatio-Temporal Stability Guided Decoding for dLLMs*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=qBcBs3bMwp)
+
+* **[NeurIPS 2026]** *Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=5sFFGPtDy2)
+
+* **[NeurIPS 2026]** *TabDLM: Free-Form Tabular Data Generation via Joint Numerical–Language Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.22586)
+
+* **[NeurIPS 2026]** *Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2602.22871) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/roymiles/diffusion-stitching)
+
+* **[NeurIPS 2026]** *The Design Space of Tri-Modal Masked Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=NBUCuy2uaq)
+
+* **[NeurIPS 2026]** *Token Time Continuous Diffusion for Language Modeling*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=HSVpmk76UW)
+
+* **[NeurIPS 2026]** *Towards Closing the Autoregressive Gap in Language Modeling via Entropy-Gated Continuous Bitstream Diffusion*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=WvVrxnsb7c)
+
+* **[NeurIPS 2026]** *Training Optimal Large Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://arxiv.org/abs/2510.03280)
+
+* **[NeurIPS 2026]** *Uncertainty Quantification for Large Language Diffusion Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=fNNb0OstQs)
+
+* **[NeurIPS 2026]** *VIGOR: Visual Gain Ordering for Hallucination Mitigation in Multimodal Discrete Diffusion Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=2ZlTG9IUvR)
+
+* **[NeurIPS 2026]** *When Does Structure Help? Statistical Tradeoffs for Structured Reverse Processes in Diffusion Large Language Models*<br> [![Paper](https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge)](https://openreview.net/forum?id=4BV320BJNW)
 
 * **[ACM MM 2026]** ***BARD:*** *Bridging Autoregressive and Diffusion Vision-Language Models via Highly Efficient Progressive Block Merging and Stage-Wise Distillation*<br>
 [![Paper](https://img.shields.io/badge/Paper-arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2604.16514) [![Project Page](https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fudan-generative-vision.github.io/Bard-VL/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/fudan-generative-vision/Bard-VL) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97-Hugging_Face-yellow?style=for-the-badge)](https://huggingface.co/collections/fudan-generative-ai/bard-vl)
@@ -619,19 +780,15 @@
 - [Evo: Autoregressive-Diffusion Large Language Models with Evolving Balance](https://arxiv.org/abs/2603.06617)
 - [Diffusion Language Models Are Natively Length-Aware](https://arxiv.org/abs/2603.06123)
 - [Diffusion LLMs can think EoS-by-EoS](https://arxiv.org/abs/2603.05197)
-- [Free Lunch for Pass@k? Low Cost Diverse Sampling for Diffusion Language Models](https://arxiv.org/abs/2603.04893) [![GitHub Stars](https://img.shields.io/github/stars/sean-lamont/odd?style=social)](https://github.com/sean-lamont/odd)
 - [Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding](https://arxiv.org/abs/2603.04514)
 - [CoDAR: Continuous Diffusion Language Models are More Powerful Than You Think](https://arxiv.org/abs/2603.02547)
-- [Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects](https://arxiv.org/abs/2603.02333)
 - [D3LM: A Discrete DNA Diffusion Language Model for Bidirectional DNA Understanding and Generation](https://arxiv.org/abs/2603.01780)
 - [LFPO: Likelihood-Free Policy Optimization for Masked Diffusion Models](https://arxiv.org/abs/2603.01563)
 - [Exact Likelihood for Masked Diffusion via Deterministic Unmasking Rules](https://arxiv.org/abs/2603.01367)
 - [MetaState: Persistent Working Memory for Discrete Diffusion Language Models](https://arxiv.org/abs/2603.01331)
 - [Reasoning or Rationalization? The Role of Justifications in Masked Diffusion Models for Fact Verification](https://arxiv.org/abs/2603.01190)
 - [Why Diffusion Language Models Struggle with Truly Parallel (Non-Autoregressive) Decoding?](https://arxiv.org/abs/2602.23225)
-- [Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching](https://arxiv.org/abs/2602.22871) [![GitHub Stars](https://img.shields.io/github/stars/roymiles/diffusion-stitching?style=social)](https://github.com/roymiles/diffusion-stitching)
 - [dLLM: Simple Diffusion Language Modeling](https://arxiv.org/abs/2602.22661) [![GitHub Stars](https://img.shields.io/github/stars/ZHZisZZ/dllm?style=social)](https://github.com/ZHZisZZ/dllm)
-- [TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion](https://arxiv.org/abs/2602.22586)
 - [Self-Purification Mitigates Backdoors in Multimodal Diffusion Language Models](https://arxiv.org/abs/2602.22246)
 - [Adaptation to Intrinsic Dependence in Diffusion Language Models](https://arxiv.org/abs/2602.20126)
 - [Prompt Optimization Via Diffusion Language Models](https://arxiv.org/abs/2602.18449)
@@ -640,8 +797,6 @@
 - [One-step Language Modeling via Continuous Denoising](https://arxiv.org/abs/2602.16813) [![GitHub Stars](https://img.shields.io/github/stars/david3684/flm?style=social)](https://github.com/david3684/flm)
 - [Discrete Stochastic Localization for Non-autoregressive Generation](https://arxiv.org/abs/2602.16169)
 - [VDLM: Variable Diffusion LMs via Robust Latent-to-Text Rendering](https://arxiv.org/abs/2602.15870)
-- [MAGE: All-[MASK] Block Already Knows Where to Look in Diffusion LLM](https://arxiv.org/abs/2602.14209)
-- [T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization](https://arxiv.org/abs/2602.12262) [![GitHub Stars](https://img.shields.io/github/stars/Tyrion58/T3D?style=social)](https://github.com/Tyrion58/T3D)
 - [dVoting: Fast Voting for dLLMs](https://arxiv.org/abs/2602.12153) [![GitHub Stars](https://img.shields.io/github/stars/fscdc/dVoting?style=social)](https://github.com/fscdc/dVoting)
 - [DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels](https://arxiv.org/abs/2602.11715) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://deadlykitten4.github.io/DICE/)
 - [Embedding Inversion via Conditional Masked Diffusion Language Models](https://arxiv.org/abs/2602.11047) [![GitHub Stars](https://img.shields.io/github/stars/jina-ai/embedding-inversion-demo?style=social)](https://github.com/jina-ai/embedding-inversion-demo)
@@ -653,19 +808,14 @@
 - [DLLM Agent: See Farther, Run Faster](https://arxiv.org/abs/2602.07451)
 - [DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents](https://arxiv.org/abs/2602.07035) [![GitHub Stars](https://img.shields.io/github/stars/bubble65/DLLM-Searcher?style=social)](https://github.com/bubble65/DLLM-Searcher) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://bubble65.github.io/dllm-searcher-pub/)
 - [DAWN: Dependency-Aware Fast Inference for Diffusion LLMs](https://arxiv.org/abs/2602.06953) [![GitHub Stars](https://img.shields.io/github/stars/lizhuo-luo/DAWN?style=social)](https://github.com/lizhuo-luo/DAWN)
-- [Diffusion-State Policy Optimization for Masked Diffusion Language Models](https://arxiv.org/abs/2602.06462) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://daioba.github.io/dispo/)
 - [EntRGi: Entropy Aware Reward Guidance for Diffusion Language Models](https://arxiv.org/abs/2602.05000)
-- [Reasoning with Latent Tokens in Diffusion Language Models](https://arxiv.org/abs/2602.03769)
 - [Step-Wise Refusal Dynamics in Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2602.02600)
 - [AR-MAP: Are Autoregressive Large Language Models Implicit Teachers for Diffusion Large Language Models?](https://arxiv.org/abs/2602.02178) [![GitHub Stars](https://img.shields.io/github/stars/AMAP-ML/AR-MAP?style=social)](https://github.com/AMAP-ML/AR-MAP)
-- [Self-Rewarding Sequential Monte Carlo for Masked Diffusion Language Models](https://arxiv.org/abs/2602.01849) [![GitHub Stars](https://img.shields.io/github/stars/Algolzw/self-rewarding-smc?style=social)](https://github.com/Algolzw/self-rewarding-smc) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://algolzw.github.io/sr-smc/)
 - [Dynamic Expert Sharing: Decoupling Memory from Parallelism in Mixture-of-Experts Diffusion LLMs](https://arxiv.org/abs/2602.00879)
 - [Lookahead-then-Verify: Reliable Constrained Decoding for Diffusion LLMs under Context-Free Grammars](https://arxiv.org/abs/2602.00612)
-- [Diffusion LMs Can Approximate Optimal Infilling Lengths Implicitly](https://arxiv.org/abs/2602.00476)
 - [A Fragile Guardrail: Diffusion LLM's Safety Blessing and Its Failure Mode](https://arxiv.org/abs/2602.00388)
 - [FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation](https://arxiv.org/abs/2601.23182)
 - [DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding](https://arxiv.org/abs/2601.23161) [![GitHub Stars](https://img.shields.io/github/stars/NKU-HLT/DIFFA?style=social)](https://github.com/NKU-HLT/DIFFA) [![Huggingface Face](https://img.shields.io/badge/Hugging-Face-orange?logo=website)](https://huggingface.co/zhoujiaming777/DIFFA-2)
-- [Relaxing Positional Alignment in Masked Diffusion Language Models](https://arxiv.org/abs/2601.22947)
 - [Time-Annealed Perturbation Sampling: Diverse Generation for Diffusion Language Models](https://arxiv.org/abs/2601.22629) [![GitHub Stars](https://img.shields.io/github/stars/Johnny221B/TAPS?style=social)](https://github.com/Johnny221B/TAPS)
 - [ρ-EOS: Training-free Bidirectional Variable-Length Control for Masked Diffusion LLMs](https://arxiv.org/abs/2601.22527) [![GitHub Stars](https://img.shields.io/github/stars/yjyddq/rho-EOS?style=social)](https://github.com/yjyddq/rho-EOS)
 - [Thinking Out of Order: When Output Order Stops Reflecting Reasoning Order in Diffusion Language Models](https://arxiv.org/abs/2601.22035)
@@ -817,7 +967,6 @@
 - [Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding](https://arxiv.org/abs/2509.18085)
 - [Taming Masked Diffusion Language Models via Consistency Trajectory Reinforcement Learning with Fewer Decoding Step](https://arxiv.org/abs/2509.23924) [![GitHub Stars](https://img.shields.io/github/stars/yjyddq/EOSER-ASS-RL?style=social)](https://github.com/yjyddq/EOSER-ASS-RL)
 - [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/abs/2509.25604)
-- [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)
 - [What Makes Diffusion Language Models Super Data Learners?](https://arxiv.org/abs/2510.04071)
 - [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/abs/2510.04147)
 - [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/abs/2510.06303)
