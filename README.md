@@ -776,6 +776,7 @@
 <details>
 <summary><h4>💡 Pre-Print Papers</h4></summary>
 
+- [On the Importance of Hidden-State Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2611.32416) [![GitHub Stars](https://img.shields.io/github/stars/zhongzero/Recurrent-DLLM?style=social)](https://github.com/zhongzero/Recurrent-DLLM) [![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=website)](https://zhongzero.github.io/Recurrent-DLLM/)
 - [Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs](https://arxiv.org/abs/2603.07475)
 - [Evo: Autoregressive-Diffusion Large Language Models with Evolving Balance](https://arxiv.org/abs/2603.06617)
 - [Diffusion Language Models Are Natively Length-Aware](https://arxiv.org/abs/2603.06123)
